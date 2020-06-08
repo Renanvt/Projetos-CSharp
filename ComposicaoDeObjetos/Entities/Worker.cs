@@ -1,6 +1,8 @@
 using System;
 using ComposicaoDeObjetos.Entities.Enums;
-namespace ComposicaoDeObjetos.Entities
+using ComposicaoDeObjetos.Entities.HourContract;
+
+namespace ComposicaoDeObjetos.Entities.Worker
 {
     class Worker
     {
@@ -15,10 +17,10 @@ namespace ComposicaoDeObjetos.Entities
         }
 
         
-        public void addContract(DateTime contract){
+        public void addContract(HourContract contract){
 
         }
-        public void removeContract(DateTime contract){
+        public void removeContract(HourContract contract){
 
         }
         public double income(int year, int month){

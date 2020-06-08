@@ -9,7 +9,7 @@ namespace ComposicaoDeObjetos.Entities.HourContract
         private int hours{get;set;}
 
         public double totalValue(){
-            
+            return valuePerHour;
         }
     }
 }
