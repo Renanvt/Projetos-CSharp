@@ -1,0 +1,13 @@
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/bin/Debug/netcoreapp3.1/ComposicaoDeObjetos
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/bin/Debug/netcoreapp3.1/ComposicaoDeObjetos.deps.json
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/bin/Debug/netcoreapp3.1/ComposicaoDeObjetos.runtimeconfig.json
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/bin/Debug/netcoreapp3.1/ComposicaoDeObjetos.runtimeconfig.dev.json
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/bin/Debug/netcoreapp3.1/ComposicaoDeObjetos.dll
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/bin/Debug/netcoreapp3.1/ComposicaoDeObjetos.pdb
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.csprojAssemblyReference.cache
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.AssemblyInfoInputs.cache
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.AssemblyInfo.cs
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.csproj.CoreCompileInputs.cache
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.dll
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.pdb
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/ComposicaoDeObjetos/obj/Debug/netcoreapp3.1/ComposicaoDeObjetos.genruntimeconfig.cache
