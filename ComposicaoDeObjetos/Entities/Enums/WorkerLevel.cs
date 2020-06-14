@@ -1,10 +1,10 @@
 using System;
-namespace ComposicaoDeObjetos.Entities.Enums;
+namespace ComposicaoDeObjetos.Entities.Enums
 {
     enum WorkerLevel:int
     {
-        JUNIOR =1,
-        MID_LEVEL=2,
-        SENIOR=3
+        Junior=0,
+        MidLevel=2,
+        Senior=2
     }
 }
