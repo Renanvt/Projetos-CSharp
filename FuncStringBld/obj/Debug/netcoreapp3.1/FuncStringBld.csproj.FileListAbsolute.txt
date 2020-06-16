@@ -1,0 +1,13 @@
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.csprojAssemblyReference.cache
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.AssemblyInfoInputs.cache
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.AssemblyInfo.cs
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.csproj.CoreCompileInputs.cache
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/bin/Debug/netcoreapp3.1/FuncStringBld
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/bin/Debug/netcoreapp3.1/FuncStringBld.deps.json
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/bin/Debug/netcoreapp3.1/FuncStringBld.runtimeconfig.json
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/bin/Debug/netcoreapp3.1/FuncStringBld.runtimeconfig.dev.json
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/bin/Debug/netcoreapp3.1/FuncStringBld.dll
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/bin/Debug/netcoreapp3.1/FuncStringBld.pdb
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.dll
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.pdb
+/home/jonatan/Documentos/GitHub/Projetos-CSharp/FuncStringBld/obj/Debug/netcoreapp3.1/FuncStringBld.genruntimeconfig.cache
