@@ -2,6 +2,7 @@ using System;
 using System.Text;
 using System.Collections.Generic;
 using System.Globalization;
+
 namespace Entities
 {
     class Order
@@ -13,7 +14,7 @@ namespace Entities
         public Client Client {get;set;}
     
         public List<OrderItem> Items{get;set;} = new List<OrderItem>();
-         public Order(DateTime moment, OrderStatus status, Client client, List<Items> items)
+         public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
             Status = status;
@@ -26,7 +27,12 @@ namespace Entities
             Items.Remove(item);
         }
         public double Total(){
-
+            double sum=0.0;
+            foreach(OrderItem item in Items){
+                sum += item.SubTotal();
+            }
+            return sum;
         }
+        
     }
 }

@@ -4,10 +4,9 @@ using System.Collections.Generic;
 using System.Globalization;
 namespace Entities
 {
-    class OrderItem
+     class OrderItem
     {
         
-
         public int Quantity { get; set; }
         public double Price { get; set; }
         public Product Product{get;set;}
@@ -19,7 +18,7 @@ namespace Entities
             Product = product;
         }
         public double SubTotal(){
-
+            return Price * Quantity;
         }
     }
 }
