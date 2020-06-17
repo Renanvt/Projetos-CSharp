@@ -4,9 +4,9 @@ using System.Text;
 namespace Entities{
     class Account
     {
-        public int Number { get; set; }
-        public string Holder { get; set; } //titular
-        public double Balance { get; set; } //Saldo da conta
+        public int Number { get; protected set; } //protected não posso alterar no programa principal
+        public string Holder { get; protected set; } //titular
+        public double Balance { get; protected set; } //Saldo da conta
         public Account(){
             
         }
@@ -18,7 +18,7 @@ namespace Entities{
         }
         public void Withdraw(double amount)//saque recebe quantia como parâmetro de entrada
         {
-            Balanca -= amount;
+            Balance -= amount;
         } 
         public void Deposit(double amount)
         {
