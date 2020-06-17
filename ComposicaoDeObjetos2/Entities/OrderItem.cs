@@ -20,5 +20,16 @@ namespace Entities
         public double SubTotal(){
             return Price * Quantity;
         }
+
+        public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantidade: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

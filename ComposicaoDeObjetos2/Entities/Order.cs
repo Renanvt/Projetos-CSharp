@@ -14,6 +14,10 @@ namespace Entities
         public Client Client {get;set;}
     
         public List<OrderItem> Items{get;set;} = new List<OrderItem>();
+        public Order(){
+
+        }
+        
          public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
@@ -33,6 +37,18 @@ namespace Entities
             }
             return sum;
         }
-        
+        public override string ToString(){
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Momento do pedido: "+Moment);
+            sb.AppendLine("Status do pedido: " + Status);
+            sb.AppendLine("Cliente: "+Client);
+            sb.AppendLine("Items do pedido: ");
+            foreach(OrderItem obj in Items){
+               sb.AppendLine(obj.ToString());
+            }
+            sb.AppendLine("Preço total: "+Total().ToString("F2",CultureInfo.InvariantCulture));
+
+            return sb.ToString();
+        } 
     }
 }

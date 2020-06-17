@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\bin\Debug\netcoreapp3.1\ComposicaoDeObjetos2.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\bin\Debug\netcoreapp3.1\ComposicaoDeObjetos2.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\bin\Debug\netcoreapp3.1\ComposicaoDeObjetos2.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\bin\Debug\netcoreapp3.1\ComposicaoDeObjetos2.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\bin\Debug\netcoreapp3.1\ComposicaoDeObjetos2.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\bin\Debug\netcoreapp3.1\ComposicaoDeObjetos2.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ComposicaoDeObjetos2\obj\Debug\netcoreapp3.1\ComposicaoDeObjetos2.genruntimeconfig.cache
