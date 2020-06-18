@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.genruntimeconfig.cache
