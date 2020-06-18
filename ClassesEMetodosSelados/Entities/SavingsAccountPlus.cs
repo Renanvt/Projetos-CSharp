@@ -11,8 +11,8 @@ namespace Entities
 {
     class SavingsAccountPlus : SavingsAccount 
     {
-        public override void Withdraw(double amount){ // ERRO, Estou tentando sobrescrever um método selado
+        /*public override void Withdraw(double amount){ // ERRO, Estou tentando sobrescrever um método selado
 
-        }
+        }*/
     }
 }
