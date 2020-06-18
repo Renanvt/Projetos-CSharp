@@ -11,32 +11,30 @@ namespace Polimorfismo
         {
             Console.Write("Entre com o número de funcionários: ");
             int N = int.Parse(Console.ReadLine());
-            Employee func = new Employee();
             List<Employee> list = new List<Employee>();
             for(int i=0;i<N;i++){
                 System.Console.WriteLine($"Dados do funcionário #{i+1}");
                 System.Console.Write("Tercerizado (s/n)? ");
-                string op = Console.ReadLine();
+                char op = char.Parse(Console.ReadLine());
                 System.Console.Write("Nome: ");
                 string name = Console.ReadLine();
                 System.Console.Write("Horas: ");
                 int hours = int.Parse(Console.ReadLine());
                 System.Console.Write("Valor por hora: ");
                 double valuePerHour = Double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);            
-                func = new Employee(name,hours,valuePerHour);
-                list.Add(func);
-
-                if(op == "s" || op == "S"){
-                    System.Console.Write("Carga adicional: ");
+                if(op == 's' || op == 'S'){
+                    System.Console.Write("Despesa adicional: ");
                     double addCh = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-                    func = new OutsourceEmployee(name,hours,valuePerHour,addCh);
-                    list.Add(func);
+                    list.Add(new OutsourceEmployee(name,hours,valuePerHour,addCh));
+                }else{
+                     list.Add(new Employee(name,hours,valuePerHour));
                 }
             }
+            System.Console.WriteLine();
             System.Console.WriteLine("Pagamentos: ");
             foreach (Employee obj in list)
             {
-                System.Console.WriteLine(obj.ToString());
+                System.Console.WriteLine(obj.Name + " - $ "+obj.Payment().ToString("F2",CultureInfo.InvariantCulture));
             }
         }
     }

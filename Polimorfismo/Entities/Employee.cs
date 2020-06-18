@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Text;
 namespace Entities{
     class Employee
     {
@@ -21,10 +20,6 @@ namespace Entities{
         public virtual double Payment(){
             return Hours * ValuePerHour;
         }
-        public override string ToString(){
-            return $"{Name} - $ {Payment()}";
-        }
-
        
     }
 }
