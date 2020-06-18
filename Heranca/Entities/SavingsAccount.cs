@@ -15,6 +15,10 @@ namespace Entities{
         }
         public void UpdateBalance(){//Atualizar o dado da conta baseada na taxa de juros
         Balance += Balance * InterestRate;
-        }    
+        }
+      public override void Withdraw(double amount){
+          base.Withdraw(amount);
+          Balance -= 2.0;
+      }
     }
 }

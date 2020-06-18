@@ -16,9 +16,9 @@ namespace Entities{
             Holder = holder;
             Balance = balance;
         }
-        public void Withdraw(double amount)//saque recebe quantia como parâmetro de entrada
+        public virtual void Withdraw(double amount)//O método de saque pode ser sobreescrito ou sobreposto na subclasse
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         } 
         public void Deposit(double amount)
         {
