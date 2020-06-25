@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Globalization;
-using Entities;
+
 namespace Entities{
     class PessoaJuridica : Pessoa
     {
@@ -17,9 +17,10 @@ namespace Entities{
     
         public override double TotImposto(){
             if(NumeroDeFunc <= 10){
-                base.RendaAnual += base.RendaAnual * 0.6;
+               return RendaAnual* 0.16;
             }else{
-                base.RendaAnual += base.RendaAnual * 0.4;
+                return RendaAnual * 0.4;
+                
             }
         }
 

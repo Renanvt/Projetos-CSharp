@@ -1,0 +1,4 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos2\obj\Debug\netcoreapp2.1\MetodosAbstratos2.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos2\obj\Debug\netcoreapp2.1\MetodosAbstratos2.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos2\obj\Debug\netcoreapp2.1\MetodosAbstratos2.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\MetodosAbstratos2\obj\Debug\netcoreapp2.1\MetodosAbstratos2.csproj.CoreCompileInputs.cache

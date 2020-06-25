@@ -16,20 +16,11 @@ namespace Entities{
             GastosComSaude = gastosComSaude;
         }
         public override double TotImposto(){
-            if(GastosComSaude > 0.0){
-                if(base.RendaAnual <2000.00){
-                    base.RendaAnual += base.RendaAnual * 0.1 ;
-                    base.RendaAnual -= base.GastosComSaude * 0.5;
+                if(RendaAnual <20000.0){
+                    return RendaAnual * 0.15 - GastosComSaude * 0.5;
                 }else{
-                    base.RendaAnual += base.RendaAnual * 0.2;
-                    base.RendaAnual -= base.GastosComSaude * 0.5;
-                }
-            }else{
-                if(base.RendaAnual <2000.00){
-                    base.RendaAnual += base.RendaAnual * 0.1 ;
-                }else{
-                    base.RendaAnual += base.RendaAnual * 0.2;
-                }
+                   return RendaAnual * 0.25 - GastosComSaude * 0.5;
+                
             }
         }
 
