@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Projetos-CSharp\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.genruntimeconfig.cache
