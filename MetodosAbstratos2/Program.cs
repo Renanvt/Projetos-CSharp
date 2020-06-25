@@ -43,10 +43,12 @@ namespace MetodosAbstratos2
             {
                 
                 double totimposto = obj.TotImposto();
-                System.Console.Write(obj.Nome + ": $ " + );
-                sum += pessoa;
+                System.Console.WriteLine(obj.Nome + ": $ " + totimposto.ToString("f2",CultureInfo.InvariantCulture));
+                sum += totimposto;
     
             }
+            Console.WriteLine();
+            Console.WriteLine("Imposto total: $ "+sum.ToString("f2",CultureInfo.InvariantCulture));
         }
     }
 }

@@ -10,6 +10,10 @@ namespace Entities{
       
         public double GastosComSaude { get; set; }
         
+        public PessoaFisica()
+        {
+
+        }
          public PessoaFisica( string nome, double rendaAnual, double gastosComSaude)
          :base(nome,rendaAnual)
         {
