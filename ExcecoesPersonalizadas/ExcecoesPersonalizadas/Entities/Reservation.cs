@@ -10,6 +10,9 @@ namespace ExcecoesPersonalizadas.Entities
         public int RoomNumber { get; set; }
         public DateTime Checkin { get; set; }
         public DateTime Checkout { get; set; }
+        public Reservation() {
+
+        }
 
         public Reservation(int roomNumber, DateTime checkin, DateTime checkout)
         {
@@ -36,7 +39,7 @@ namespace ExcecoesPersonalizadas.Entities
                 //throw é como se fosse o return
                 throw new DomainException("A data reserva para atualização tem que ser datas futuras");
             }
-            if (checkout <= checkin)
+            else if (checkout <= checkin)
             {
                 throw new DomainException("Erro na reserva, a data de checkout tem que ser depois da data de checkin");
             }

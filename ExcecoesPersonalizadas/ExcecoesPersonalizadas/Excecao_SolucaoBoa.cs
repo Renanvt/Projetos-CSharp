@@ -4,7 +4,7 @@ using ExcecoesPersonalizadas.Entities.Exceptions;
 namespace ExcecoesPersonalizadas
 
 {
-    class Excecao3
+    class Excecao_SolucaoBoa
     {
         static void Main(string[] args) {
             try {
@@ -32,6 +32,12 @@ namespace ExcecoesPersonalizadas
             catch (DomainException e) 
             {
                 Console.WriteLine("Erro na reserva: "+ e.Message);
+            }
+            catch( FormatException e) {
+                Console.WriteLine("Format error: " +e.Message);
+            }
+            catch(Exception e) {
+                Console.WriteLine("Erro inesperado: "+e.Message);
             }
 
 
