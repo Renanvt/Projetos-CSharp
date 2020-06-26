@@ -1,4 +1,4 @@
-﻿using ExcecoesPersonalizadas.Entities;
+﻿/*using ExcecoesPersonalizadas.Entities;
 using System;
 namespace ExcecoesPersonalizadas
 {
@@ -41,3 +41,4 @@ namespace ExcecoesPersonalizadas
         }
     }
 }
+*/

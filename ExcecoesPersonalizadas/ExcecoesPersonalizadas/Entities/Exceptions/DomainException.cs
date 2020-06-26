@@ -4,7 +4,10 @@ using System.Text;
 
 namespace ExcecoesPersonalizadas.Entities.Exceptions
 {
-    class DomainException
+    class DomainException : ApplicationException
     {
+        public DomainException(string message) : base(message) {
+
+        }
     }
 }

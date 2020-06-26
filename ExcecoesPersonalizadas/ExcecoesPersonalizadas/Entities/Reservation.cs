@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ExcecoesPersonalizadas.Entities.Exceptions;
 
 namespace ExcecoesPersonalizadas.Entities
 {
@@ -12,6 +13,10 @@ namespace ExcecoesPersonalizadas.Entities
 
         public Reservation(int roomNumber, DateTime checkin, DateTime checkout)
         {
+            if (checkout <= checkin) 
+            {
+                throw new DomainException("Erro na reserva, a data de checkout tem que ser depois da data de checkin");
+            }
             RoomNumber = roomNumber;
             Checkin = checkin;
             Checkout = checkout;
@@ -23,22 +28,23 @@ namespace ExcecoesPersonalizadas.Entities
             TimeSpan duration = Checkout.Subtract(Checkin);
             return (int) duration.TotalDays;
         }
-        public string UpdateDates(DateTime checkin, DateTime checkout)
+        public void UpdateDates(DateTime checkin, DateTime checkout)
         {
             DateTime now = DateTime.Now;
             if (checkin < now || checkout < now)
             {
-                return "A data reserva para atualização tem que ser datas futuras";
+                //throw é como se fosse o return
+                throw new DomainException("A data reserva para atualização tem que ser datas futuras");
             }
             if (checkout <= checkin)
             {
-                return "Erro na reserva, a data de checkout tem que ser depois da data de checkin";
+                throw new DomainException("Erro na reserva, a data de checkout tem que ser depois da data de checkin");
             }
 
             Checkin = checkin;
             Checkout = checkout;
             //INDICA QUE A FUNCAO NÃO TEVE ERROS
-            return null;
+            //return null;
         }
         public override string ToString()
         {
