@@ -1,0 +1,12 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\obj\Debug\netcoreapp3.1\_StreamWriter_.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\obj\Debug\netcoreapp3.1\_StreamWriter_.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\obj\Debug\netcoreapp3.1\_StreamWriter_.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\bin\Debug\netcoreapp3.1\_StreamWriter_.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\bin\Debug\netcoreapp3.1\_StreamWriter_.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\bin\Debug\netcoreapp3.1\_StreamWriter_.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\bin\Debug\netcoreapp3.1\_StreamWriter_.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\bin\Debug\netcoreapp3.1\_StreamWriter_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\bin\Debug\netcoreapp3.1\_StreamWriter_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\obj\Debug\netcoreapp3.1\_StreamWriter_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\obj\Debug\netcoreapp3.1\_StreamWriter_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_StreamWriter_\_StreamWriter_\obj\Debug\netcoreapp3.1\_StreamWriter_.genruntimeconfig.cache
