@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\bin\Debug\netcoreapp3.1\FileStream_e_StreamReader.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\bin\Debug\netcoreapp3.1\FileStream_e_StreamReader.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\bin\Debug\netcoreapp3.1\FileStream_e_StreamReader.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\bin\Debug\netcoreapp3.1\FileStream_e_StreamReader.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\bin\Debug\netcoreapp3.1\FileStream_e_StreamReader.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\bin\Debug\netcoreapp3.1\FileStream_e_StreamReader.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\FileStream_e_StreamReader\FileStream_e_StreamReader\obj\Debug\netcoreapp3.1\FileStream_e_StreamReader.genruntimeconfig.cache
