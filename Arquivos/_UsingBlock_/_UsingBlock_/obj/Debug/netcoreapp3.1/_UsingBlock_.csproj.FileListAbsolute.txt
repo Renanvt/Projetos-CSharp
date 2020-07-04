@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\bin\Debug\netcoreapp3.1\_UsingBlock_.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\bin\Debug\netcoreapp3.1\_UsingBlock_.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\bin\Debug\netcoreapp3.1\_UsingBlock_.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\bin\Debug\netcoreapp3.1\_UsingBlock_.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\bin\Debug\netcoreapp3.1\_UsingBlock_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\bin\Debug\netcoreapp3.1\_UsingBlock_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_UsingBlock_\_UsingBlock_\obj\Debug\netcoreapp3.1\_UsingBlock_.genruntimeconfig.cache
