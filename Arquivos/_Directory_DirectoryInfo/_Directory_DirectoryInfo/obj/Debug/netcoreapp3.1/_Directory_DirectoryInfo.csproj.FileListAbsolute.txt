@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\_Directory_DirectoryInfo.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\_Directory_DirectoryInfo.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\_Directory_DirectoryInfo.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\_Directory_DirectoryInfo.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\_Directory_DirectoryInfo.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\_Directory_DirectoryInfo.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Arquivos\_Directory_DirectoryInfo\_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\_Directory_DirectoryInfo.genruntimeconfig.cache
