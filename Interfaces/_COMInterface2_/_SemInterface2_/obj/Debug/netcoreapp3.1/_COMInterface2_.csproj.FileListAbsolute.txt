@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\bin\Debug\netcoreapp3.1\_COMInterface2_.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\bin\Debug\netcoreapp3.1\_COMInterface2_.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\bin\Debug\netcoreapp3.1\_COMInterface2_.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\bin\Debug\netcoreapp3.1\_COMInterface2_.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\bin\Debug\netcoreapp3.1\_COMInterface2_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\bin\Debug\netcoreapp3.1\_COMInterface2_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_SemInterface2_\_SemInterface2_\obj\Debug\netcoreapp3.1\_COMInterface2_.genruntimeconfig.cache
