@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\bin\Debug\netcoreapp3.1\_Sem_Interface1_.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\bin\Debug\netcoreapp3.1\_Sem_Interface1_.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\bin\Debug\netcoreapp3.1\_Sem_Interface1_.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\bin\Debug\netcoreapp3.1\_Sem_Interface1_.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\bin\Debug\netcoreapp3.1\_Sem_Interface1_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\bin\Debug\netcoreapp3.1\_Sem_Interface1_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Interface1_.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Interface1_.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Interface1_.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Interface1_.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Sem_Interface1_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Sem_Interface1_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\_Interface1_\_Interface1_\obj\Debug\netcoreapp3.1\_Interface1_.genruntimeconfig.cache

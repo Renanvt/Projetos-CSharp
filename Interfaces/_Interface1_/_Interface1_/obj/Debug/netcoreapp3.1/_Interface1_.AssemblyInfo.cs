@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("_Interface1_")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("_Sem_Interface1_")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("_Interface1_")]
-[assembly: System.Reflection.AssemblyTitleAttribute("_Interface1_")]
+[assembly: System.Reflection.AssemblyProductAttribute("_Sem_Interface1_")]
+[assembly: System.Reflection.AssemblyTitleAttribute("_Sem_Interface1_")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
