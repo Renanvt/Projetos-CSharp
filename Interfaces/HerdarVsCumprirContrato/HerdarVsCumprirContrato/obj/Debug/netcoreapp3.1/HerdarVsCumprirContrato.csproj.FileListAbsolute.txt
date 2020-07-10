@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVsCumprirContrato.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVsCumprirContrato.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVsCumprirContrato.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVsCumprirContrato.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVsCumprirContrato.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVsCumprirContrato.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\HerdarVsCumprirContrato\HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVsCumprirContrato.genruntimeconfig.cache

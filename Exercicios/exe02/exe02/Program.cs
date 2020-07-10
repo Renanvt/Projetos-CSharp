@@ -1,4 +1,6 @@
-﻿using System;
+﻿using exe02.entities;
+using exe02.services;
+using System;
 using System.Globalization;
 
 namespace exe02
@@ -16,7 +18,19 @@ namespace exe02
             double value = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Entre com os numeros de parcelas: ");
             int parcelas = int.Parse(Console.ReadLine());
+
+            Contract contract = new Contract(number, date, value);
+
+            ContractService contractService = new ContractService(new PaypalService());
+            contractService.ProcessContract(contract, parcelas);
+            
+
+           
             Console.WriteLine("Parcelas:");
+            foreach(Installment installment in contract.Installments)
+            {
+                Console.WriteLine(installment);
+            }
         }
     }
 }
