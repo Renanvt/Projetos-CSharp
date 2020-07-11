@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Equals.Entities;
+using System;
 
 namespace Equals
 {
@@ -6,8 +7,8 @@ namespace Equals
     {
         static void Main(string[] args)
         {
-            string a = "Maria";
-            string b = "Maria";
+            Client a = new Client { Name = "Maria", Email = "maria@gmail.com" };
+            Client b = new Client { Name = "Alex", Email = "alex@gmail.com" };
             Console.WriteLine(a.Equals(b));
 
         }
