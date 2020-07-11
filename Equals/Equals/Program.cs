@@ -11,6 +11,7 @@ namespace Equals
             Client b = new Client { Name = "Alex", Email = "maria@gmail.com" };
             Console.WriteLine(a.Equals(b));
             Console.WriteLine(a == b); // == compara a referencia do ponteiro de memória do objeto, como sao objetos diferente o == vai dar false
+            //Uma coisa é comparar refencia de memória, outra coisa é comparar o conteúdo
             Console.WriteLine(a.GetHashCode());
             Console.WriteLine(b.GetHashCode());
 
