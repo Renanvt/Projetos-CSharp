@@ -8,7 +8,7 @@ namespace GenericsRestricoes
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int>(); //Cria uma lista de numeros inteiros e inicia vazia
+            List<int> list = new List<int>(); //int implementa IComparable
             Console.Write("Entre com o número de produtos: ");
             int n = int.Parse(Console.ReadLine());
             for(int i = 0; i< n; i++)
