@@ -8,6 +8,7 @@ namespace _Generics
         static void Main(string[] args)
         {
             //Generics permites que classes, interfaces e métodos possam ser parametrizados por tipo. Seus benefícios são: Reuso, type safety, performance
+            //PrintService printService = new PrintService();
             PrintService printService = new PrintService();
             Console.Write("Quantas valores? ");
             int n = int.Parse(Console.ReadLine());

@@ -6,19 +6,20 @@ namespace _Generics.services
 {
     class PrintService
     {
-        private int[] _values = new int[10];
+        //Troquei int[] _values pra object[] _values
+        private object[] _values = new object[10];
         private int _count = 0;
 
        
 
-        public void AddValue(int value)
+        public void AddValue(object value)
         {
             if (_count == 10)
                 throw new InvalidOperationException("PrintService está cheio"); 
             _values[_count] = value;
             _count++;
         }
-        public int First()
+        public object First()
         {
             if (_count == 0)
                 throw new InvalidOperationException("PrintService está vazio");
