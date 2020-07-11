@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Interfaces\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.genruntimeconfig.cache
