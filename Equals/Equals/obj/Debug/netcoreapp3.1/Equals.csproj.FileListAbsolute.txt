@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\bin\Debug\netcoreapp3.1\Equals.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\bin\Debug\netcoreapp3.1\Equals.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\bin\Debug\netcoreapp3.1\Equals.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\bin\Debug\netcoreapp3.1\Equals.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\bin\Debug\netcoreapp3.1\Equals.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\bin\Debug\netcoreapp3.1\Equals.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Equals\Equals\obj\Debug\netcoreapp3.1\Equals.genruntimeconfig.cache
