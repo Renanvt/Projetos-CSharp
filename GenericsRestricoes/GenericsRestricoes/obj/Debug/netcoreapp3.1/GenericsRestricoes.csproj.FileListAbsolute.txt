@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.genruntimeconfig.cache
