@@ -9,16 +9,16 @@ namespace _Generics
         {
             //Generics permites que classes, interfaces e métodos possam ser parametrizados por tipo. Seus benefícios são: Reuso, type safety, performance
             //PrintServiceString printService = new PrintServiceString();
-            //Essa solução não tem Type safety
-            PrintService printService = new PrintService();
+            //Essa solução tem Type safety
+            PrintService<int> printService = new PrintService<int>();
             Console.Write("Quantas valores? ");
             int n = int.Parse(Console.ReadLine());
             for(int i = 0; i < n; i++)
             {
-                string x = Console.ReadLine();
+                int x = int.Parse(Console.ReadLine());
                 printService.AddValue(x);
             }
-            int a = (int) printService.First(); //Não pode converter implicitamento objeto pra int
+            int a =  printService.First(); 
             int b = a + 2;
             Console.WriteLine(b);
             printService.Print();
