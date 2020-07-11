@@ -23,10 +23,8 @@ namespace InterfaceIComparable2.Entities
         }
         public int CompareTo(object obj)
         {
-            if(!(obj is Employee))
-            {
-                throw new ArgumentException("Erro de comparação: o argumento não é um Employee (funcionário)");
-            }
+            if(!(obj is Employee))  throw new ArgumentException("Erro de comparação: o argumento não é um Employee (funcionário)");
+            
             Employee other = obj as Employee; //Downcast
             return Name.CompareTo(other.Name);
         }

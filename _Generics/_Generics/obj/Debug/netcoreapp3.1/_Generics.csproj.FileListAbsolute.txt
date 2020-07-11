@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\bin\Debug\netcoreapp3.1\_Generics.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\bin\Debug\netcoreapp3.1\_Generics.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\bin\Debug\netcoreapp3.1\_Generics.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\bin\Debug\netcoreapp3.1\_Generics.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\bin\Debug\netcoreapp3.1\_Generics.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\bin\Debug\netcoreapp3.1\_Generics.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Generics\_Generics\obj\Debug\netcoreapp3.1\_Generics.genruntimeconfig.cache
