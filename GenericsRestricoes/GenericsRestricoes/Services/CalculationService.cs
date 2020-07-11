@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using GenericsRestricoes.Services;
 
-namespace GenericsRestricoes
+namespace GenericsRestricoes.Services
 {
     class CalculationService
     {
