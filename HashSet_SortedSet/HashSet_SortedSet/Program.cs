@@ -21,6 +21,8 @@ namespace HashSet_SortedSet
             {
                 Console.WriteLine(p);
             }
+            //Instanciando um SortedSet com elementos dentro dos colchetes
+            SortedSet<int> a = new SortedSet<int>() { 0, 2, 4, 5, 6, 8, 10 };
         }
     }
 }
