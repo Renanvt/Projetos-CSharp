@@ -15,6 +15,12 @@ namespace HashSet_SortedSet
 
             //Testando se Notebook existe no conjunto
             Console.WriteLine(set.Contains("Notebook"));
+
+            //Imprimindo o conjunto, percorrendo os elementos do conjunto fazendo iteracoes de forma interna
+            foreach(string p in set)
+            {
+                Console.WriteLine(p);
+            }
         }
     }
 }
