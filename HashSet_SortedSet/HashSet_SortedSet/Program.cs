@@ -23,6 +23,21 @@ namespace HashSet_SortedSet
             }
             //Instanciando um SortedSet com elementos dentro dos colchetes
             SortedSet<int> a = new SortedSet<int>() { 0, 2, 4, 5, 6, 8, 10 };
+            SortedSet<int> b = new SortedSet<int>() { 5, 6, 7, 8, 9, 10 };
+
+            PrintCollection(a);
+        }
+
+        //Funcao que imprime o conjunto de qualquer tipo 
+        static void PrintCollection<T>(IEnumerable<T> collection) //A coleção que recebi como argumento é uma coleção do tipo "T", que implementa o IEnumerable
+        {
+            //IEnumerable -> E uma interface implementada por todas as coleções básicas do pacote System.Collections, que são padrões de projeto para percorrer coleçoes de forma padronizada
+            //GetEnumerator() -> Retorna um IEnumerable pra que possa percorrer a coleção
+            foreach(T obj in collection)
+            {
+                Console.Write(obj + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
