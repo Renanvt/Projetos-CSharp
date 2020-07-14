@@ -22,10 +22,17 @@ namespace HashSet_SortedSet
                 Console.WriteLine(p);
             }
             //Instanciando um SortedSet com elementos dentro dos colchetes
-            SortedSet<int> a = new SortedSet<int>() { 0, 2, 4, 5, 6, 8, 10 };
+            SortedSet<int> a = new SortedSet<int>() { 10, 0, 2, 4, 5, 6, 8,  };
             SortedSet<int> b = new SortedSet<int>() { 5, 6, 7, 8, 9, 10 };
 
             PrintCollection(a);
+
+            //Uniao entro conjuntos
+            //obj.: manter a coerencia de tipos
+            //Instanciando um novo conjunto C e ja inserindo dentro de C, todos os elementos do conjunto A
+            SortedSet<int> c = new SortedSet<int>(a);
+            c.UnionWith(b); //Fazendo a uniao de C com B, Inserindo dentro do conjunto C todos os elementos de B que não estejam já em C
+            PrintCollection(c); //Imprime 0 2 4 5 6 7 8 9 10, mostrando os elementos ordenado por ser um SortedSet
         }
 
         //Funcao que imprime o conjunto de qualquer tipo 
