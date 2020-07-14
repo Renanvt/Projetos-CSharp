@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.genruntimeconfig.cache

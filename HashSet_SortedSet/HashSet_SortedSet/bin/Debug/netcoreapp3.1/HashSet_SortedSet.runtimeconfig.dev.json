@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jonatan-SSD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jonatan-SSD\\.nuget\\packages",
+      "D:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
