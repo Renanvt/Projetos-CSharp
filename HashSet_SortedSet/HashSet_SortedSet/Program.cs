@@ -33,6 +33,16 @@ namespace HashSet_SortedSet
             SortedSet<int> c = new SortedSet<int>(a);
             c.UnionWith(b); //Fazendo a uniao de C com B, Inserindo dentro do conjunto C todos os elementos de B que não estejam já em C
             PrintCollection(c); //Imprime 0 2 4 5 6 7 8 9 10, mostrando os elementos ordenado por ser um SortedSet
+
+            //Intersection
+            SortedSet<int> d = new SortedSet<int>(a);
+            d.IntersectWith(b); //Interceção dos elementos de A e B
+            PrintCollection(d); //Imprime 5 6 8 10, Mostrando os elementos que existem nos dois conjuntos
+
+            //Difference
+            SortedSet<int> e = new SortedSet<int>(a);
+            e.ExceptWith(b); //Exibe os elementos de A excluídos aqueles elementos que tinham em B
+            PrintCollection(e);//Imprime 0 2 4
         }
 
         //Funcao que imprime o conjunto de qualquer tipo 
