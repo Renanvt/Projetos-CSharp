@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\bin\Debug\netcoreapp3.1\Hash_Igualdade.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\bin\Debug\netcoreapp3.1\Hash_Igualdade.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\bin\Debug\netcoreapp3.1\Hash_Igualdade.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\bin\Debug\netcoreapp3.1\Hash_Igualdade.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\bin\Debug\netcoreapp3.1\Hash_Igualdade.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\bin\Debug\netcoreapp3.1\Hash_Igualdade.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Hash_Igualdade\Hash_Igualdade\obj\Debug\netcoreapp3.1\Hash_Igualdade.genruntimeconfig.cache
