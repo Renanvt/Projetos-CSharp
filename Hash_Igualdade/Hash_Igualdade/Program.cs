@@ -22,6 +22,9 @@ namespace Hash_Igualdade
 
             Product prod = new Product("Notebook", 1200.0); //prod tem endereço de memória diferente de a
             Console.WriteLine(a.Contains(prod));//Verdade, os conteúdos são igual.
+
+            Point p = new Point(5, 10);
+            Console.WriteLine(b.Contains(p));// True, quando o tipo é struct vai comparar por conteúdo e não por referência
         }
     }
 }
