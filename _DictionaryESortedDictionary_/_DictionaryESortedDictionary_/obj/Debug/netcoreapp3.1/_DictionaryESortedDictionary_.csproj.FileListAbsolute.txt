@@ -10,3 +10,4 @@ D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_DictionaryESortedDict
 D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_DictionaryESortedDictionary_\_DictionaryESortedDictionary_\obj\Debug\netcoreapp3.1\_DictionaryESortedDictionary_.dll
 D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_DictionaryESortedDictionary_\_DictionaryESortedDictionary_\obj\Debug\netcoreapp3.1\_DictionaryESortedDictionary_.pdb
 D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_DictionaryESortedDictionary_\_DictionaryESortedDictionary_\obj\Debug\netcoreapp3.1\_DictionaryESortedDictionary_.genruntimeconfig.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_DictionaryESortedDictionary_\_DictionaryESortedDictionary_\obj\Debug\netcoreapp3.1\_DictionaryESortedDictionary_.csprojAssemblyReference.cache
