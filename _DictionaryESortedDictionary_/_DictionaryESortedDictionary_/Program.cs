@@ -35,8 +35,17 @@ namespace _DictionaryESortedDictionary_
             foreach (KeyValuePair<string, string> item in cookies)
             { //Para cada item do tipo KeyValuePair, Estou percorrendo cada um dos pares do tipo string, string
                 Console.WriteLine(item.Key + ": " +item.Value); //Imprimindo a chave e o valor 
+                //Imprime:
+                //user: maria
+                //phone: 52842158
             }
-                
+
+            //Percorrendo o Dictionary 2
+            foreach (var item in cookies)
+            { 
+                Console.WriteLine(item.Key + ": " + item.Value);                
+            }
+
         }
     }
 }
