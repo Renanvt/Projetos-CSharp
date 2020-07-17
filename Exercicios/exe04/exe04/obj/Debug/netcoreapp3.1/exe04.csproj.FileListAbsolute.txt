@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\bin\Debug\netcoreapp3.1\exe04.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\bin\Debug\netcoreapp3.1\exe04.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\bin\Debug\netcoreapp3.1\exe04.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\bin\Debug\netcoreapp3.1\exe04.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\bin\Debug\netcoreapp3.1\exe04.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\bin\Debug\netcoreapp3.1\exe04.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\exe04\exe04\obj\Debug\netcoreapp3.1\exe04.genruntimeconfig.cache
