@@ -14,12 +14,17 @@ namespace _Comparison_T_
             list.Add(new Product("Notebook", 120.00));
             list.Add(new Product("Tablet", 450.00));
 
-            list.Sort(); //Só funciona se o tipo da lista implementa a interface IComparable
+            list.Sort(CompareProducts); //Só funciona se o tipo da lista implementa a interface IComparable
 
             foreach(Product p in list)
             {
                 Console.WriteLine(p);
             }
+        }
+        static int CompareProducts(Product p1, Product p2)
+        {
+            //Vai fazer o mesmo papel do IComparable
+            return p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
         }
     }
 }
