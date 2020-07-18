@@ -1,5 +1,4 @@
 ﻿using System;
-using ExtensionMethod.Extensions;
 namespace ExtensionMethod
 {
     class Program
