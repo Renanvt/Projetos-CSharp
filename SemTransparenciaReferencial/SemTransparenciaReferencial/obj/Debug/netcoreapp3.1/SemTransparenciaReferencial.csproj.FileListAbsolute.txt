@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\bin\Debug\netcoreapp3.1\SemTransparenciaReferencial.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\bin\Debug\netcoreapp3.1\SemTransparenciaReferencial.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\bin\Debug\netcoreapp3.1\SemTransparenciaReferencial.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\bin\Debug\netcoreapp3.1\SemTransparenciaReferencial.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\bin\Debug\netcoreapp3.1\SemTransparenciaReferencial.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\bin\Debug\netcoreapp3.1\SemTransparenciaReferencial.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\SemTransparenciaReferencial\SemTransparenciaReferencial\obj\Debug\netcoreapp3.1\SemTransparenciaReferencial.genruntimeconfig.cache
