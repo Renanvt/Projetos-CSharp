@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\bin\Debug\netcoreapp3.1\_Comparison_T_.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\bin\Debug\netcoreapp3.1\_Comparison_T_.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\bin\Debug\netcoreapp3.1\_Comparison_T_.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\bin\Debug\netcoreapp3.1\_Comparison_T_.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\bin\Debug\netcoreapp3.1\_Comparison_T_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\bin\Debug\netcoreapp3.1\_Comparison_T_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Comparison_T_\_Comparison_T_\obj\Debug\netcoreapp3.1\_Comparison_T_.genruntimeconfig.cache
