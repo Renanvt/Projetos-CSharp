@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\bin\Debug\netcoreapp3.1\_Delegates.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\bin\Debug\netcoreapp3.1\_Delegates.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\bin\Debug\netcoreapp3.1\_Delegates.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\bin\Debug\netcoreapp3.1\_Delegates.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\bin\Debug\netcoreapp3.1\_Delegates.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\bin\Debug\netcoreapp3.1\_Delegates.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Delegates\_Delegates\obj\Debug\netcoreapp3.1\_Delegates.genruntimeconfig.cache
