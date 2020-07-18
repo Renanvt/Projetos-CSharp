@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.genruntimeconfig.cache
