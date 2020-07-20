@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\bin\Debug\netcoreapp3.1\_Precidate_RemoveAll_.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\bin\Debug\netcoreapp3.1\_Precidate_RemoveAll_.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\bin\Debug\netcoreapp3.1\_Precidate_RemoveAll_.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\bin\Debug\netcoreapp3.1\_Precidate_RemoveAll_.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\bin\Debug\netcoreapp3.1\_Precidate_RemoveAll_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\bin\Debug\netcoreapp3.1\_Precidate_RemoveAll_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\_Precidate_RemoveAll_\_Precidate_RemoveAll_\obj\Debug\netcoreapp3.1\_Precidate_RemoveAll_.genruntimeconfig.cache
