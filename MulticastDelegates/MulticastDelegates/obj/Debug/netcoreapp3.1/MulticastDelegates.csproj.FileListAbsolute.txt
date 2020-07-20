@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.genruntimeconfig.cache
