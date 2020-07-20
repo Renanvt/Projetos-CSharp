@@ -14,12 +14,19 @@ namespace _Precidate_RemoveAll_
             list.Add(new Product("Tablet", 350.50)); 
             list.Add(new Product("HD Case", 80.90));
 
-            list.RemoveAll(p => p.Price >= 100.0);
+            /*Expressão lambida:*/
+            //list.RemoveAll(p => p.Price >= 100.0); //Remove todos que tinham preço no valor de 100 ou superior
+            list.RemoveAll(ProductTest);
             foreach(Product p in list)
             {
-                Console.WriteLine(p);
+                Console.WriteLine(p); 
             }
 
+        }
+        //Função auxiliar
+        public static bool ProductTest(Product p)
+        {
+            return p.Price >= 100.0;
         }
     }
 }
