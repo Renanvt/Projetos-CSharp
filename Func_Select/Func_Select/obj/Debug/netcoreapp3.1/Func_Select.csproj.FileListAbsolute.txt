@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\bin\Debug\netcoreapp3.1\Func_Select.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\bin\Debug\netcoreapp3.1\Func_Select.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\bin\Debug\netcoreapp3.1\Func_Select.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\bin\Debug\netcoreapp3.1\Func_Select.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\bin\Debug\netcoreapp3.1\Func_Select.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\bin\Debug\netcoreapp3.1\Func_Select.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Func_Select\Func_Select\obj\Debug\netcoreapp3.1\Func_Select.genruntimeconfig.cache
