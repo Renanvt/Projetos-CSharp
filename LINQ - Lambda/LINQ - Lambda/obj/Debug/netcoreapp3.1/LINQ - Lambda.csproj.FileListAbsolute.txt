@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\bin\Debug\netcoreapp3.1\LINQ - Lambda.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\bin\Debug\netcoreapp3.1\LINQ - Lambda.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\bin\Debug\netcoreapp3.1\LINQ - Lambda.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\bin\Debug\netcoreapp3.1\LINQ - Lambda.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\bin\Debug\netcoreapp3.1\LINQ - Lambda.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\bin\Debug\netcoreapp3.1\LINQ - Lambda.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\LINQ - Lambda\LINQ - Lambda\obj\Debug\netcoreapp3.1\LINQ - Lambda.genruntimeconfig.cache
