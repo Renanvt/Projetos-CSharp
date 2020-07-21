@@ -122,6 +122,55 @@ namespace LINQ___Lambda
             var r12 = products.Where(p => p.ID == 30).SingleOrDefault();
             Console.WriteLine("Single or Default teste2: " + r12);
             //Retorna vazio
+
+            //OPERAÇÕES DE AGREGAÇÃO
+            var r13 = products.Max(p => p.Price);
+            //var r13 = productx.Max(); -> Erro de exceção, A classe product não implementa o IComparable
+            Console.WriteLine("Preço máximo: "+r13); //Exibe 1.800
+            var r14 = products.Min(p => p.Price); 
+            Console.WriteLine("Preço máximo: " + r14); //Exibe 70
+
+            var r15 = products.Where(p => p.Category.ID == 1).Sum(p => p.Price);
+            //Exibe a soma do preço dos produtos de Categoria 1
+            Console.WriteLine("Category 1 sum Prices: " +r15); //Exibe 240
+
+            var r16 = products.Where(p => p.Category.ID == 1).Average(p => p.Price);
+            //Exibe a média do preço dos produtos de Categoria 1
+            Console.WriteLine("Category 1 average Prices: " + r16); //Exibe 80 -> 240/3
+            //var r17 = products.Where(p => p.Category.ID == 5).Average(p => p.Price);
+            //A Filtragem vai retornar uma coleção vazia, Pois não existe Category.ID == 5
+            //Exibe a média do preço dos produtos de Categoria inexistente
+            // Console.WriteLine("Category 5 average Prices: " + r17); //[ERRO] a sequencia não possui elementos
+            /*Fazendo uma proteção -> DefaultIfEmpty -> Se o resultado for uma coleção vazia, atribui um resultado x*/
+            var r18 = products.Where(p => p.Category.ID == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            //.Select() -> Transforma a sequencia de produtos em uma sequencia de double
+            //.Average() -> Não precisa colocar nenhum argumento em Average pois no Select ja colocou o p.Price
+            Console.WriteLine("Category 5 average Prices: " + r18); //Exibe 0
+
+            //Agregace -> reduce
+            var r19 = products.Where(p => p.Category.ID == 1).Select(p => p.Price).Aggregate((x, y) => x + y);
+            //Fazer a soma dos preços desse resultado
+            //.Select() -> Extrair qual campo se quer operar
+            //.Aggregate() -> Especificar uma expressão lambda que faz a operação de agregação. Exemplo operação de soma, que recebe 2 argumentos x e y, e retorna x+y
+            Console.WriteLine("Categoria 1, Agregar Soma: "+r19); //Retorna 240
+            //Se um resultado não existir:
+            var r20 = products.Where(p => p.Category.ID == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y); //0 -> Valor inicial
+            Console.WriteLine("Categoria 5, Agregar Soma: " + r20); //Retorna 0, Pois não existe Category.Id == 5
+
+            //Agrupamento:
+            var r21 = products.GroupBy(p => p.Category);
+                //.GroupBy -> Agrupar por qual critério?
+                //Retorna um IEnumrable onde cada elemento da coleção é o IGrouping<Category,Product>
+                //IGrouping -> È uma par, que tem uma Chave e Coleção, Agrupando por chave e uma coleção de elementos que pode ter a chave
+            foreach(IGrouping<Category,Product> group in r21)
+            {
+                Console.WriteLine("Categoria "+group.Key.Name + ":");
+                foreach(Product p in group) //Para cada Product p contido em group
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
