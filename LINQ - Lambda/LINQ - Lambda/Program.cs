@@ -37,13 +37,15 @@ namespace LINQ___Lambda
                 new Product() { ID = 11, Name = "Level", Price = 70.0, Category = c1},
             };
             //DataSource -> products
-           
+            
+            //FILTRAGEM:
             var r1 = products.Where(p => p.Category.Tier == 1 & p.Price < 900.0);
             Print("Mostrar Tier 1 e preços < 900:", r1);
             // Where(argumento => condiçãoresultante)
             //Predicate -> func que retorna um bool
             //Where<Product>(func<Product,bool> predicate)
-
+            
+            //PROJEÇÃO:
             var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
             Print("Mostrar somentos os produtos de categorias tools:", r2);
             /*Exibe:
@@ -52,6 +54,7 @@ namespace LINQ___Lambda
              Level
              */
 
+            //ORDENAÇÃO:
             var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name});
             //CategoryName -> Apelido para não haver ambiguidade
             //Pega os produtos cujo nome começa com a letra C
@@ -79,6 +82,7 @@ namespace LINQ___Lambda
              Explicação: Ordena por preço, Depois quando empata os preços 700.00 -> 700.00, Ordena por nome
              */
 
+            //PARTIÇÃO:
             var r5 = r4.Skip(2).Take(4); //Pule os dois primeiroos e pegue 4 elementos
             Print("Tier 1, Ordenado por Preço e então ordenado por Nome, pule 2 elementos e pegue 4 elementos", r5);
             /*
@@ -89,6 +93,7 @@ namespace LINQ___Lambda
              4, Notebook, 1300.00, Computers, 1
              */
 
+            //ELEMENTO:
             var r6 = products.First();
             Console.WriteLine("Teste 1 - primero: " + r6); //Exibe o primeiro elemento do DataSource:
             /*
@@ -123,7 +128,7 @@ namespace LINQ___Lambda
             Console.WriteLine("Single or Default teste2: " + r12);
             //Retorna vazio
 
-            //OPERAÇÕES DE AGREGAÇÃO
+            //AGREGAÇÃO
             var r13 = products.Max(p => p.Price);
             //var r13 = productx.Max(); -> Erro de exceção, A classe product não implementa o IComparable
             Console.WriteLine("Preço máximo: "+r13); //Exibe 1.800
@@ -156,8 +161,10 @@ namespace LINQ___Lambda
             //Se um resultado não existir:
             var r20 = products.Where(p => p.Category.ID == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y); //0 -> Valor inicial
             Console.WriteLine("Categoria 5, Agregar Soma: " + r20); //Retorna 0, Pois não existe Category.Id == 5
+            Console.WriteLine();
 
-            //Agrupamento:
+
+            //AGRUPAMENTO:
             var r21 = products.GroupBy(p => p.Category);
                 //.GroupBy -> Agrupar por qual critério?
                 //Retorna um IEnumrable onde cada elemento da coleção é o IGrouping<Category,Product>
@@ -171,6 +178,14 @@ namespace LINQ___Lambda
                 }
                 Console.WriteLine();
             }
+            /*Exibe:
+             * Categoria Computers:
+                //Todos os produtos dessa categoria
+             * Categoria Tools:
+                //Todos os produtos dessa categoria
+             * Categoria Electronics:
+                //Todos os produtos dessa categoria
+            */
         }
     }
 }
