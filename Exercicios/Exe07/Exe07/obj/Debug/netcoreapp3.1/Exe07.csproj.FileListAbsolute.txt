@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\bin\Debug\netcoreapp3.1\Exe07.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\bin\Debug\netcoreapp3.1\Exe07.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\bin\Debug\netcoreapp3.1\Exe07.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\bin\Debug\netcoreapp3.1\Exe07.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\bin\Debug\netcoreapp3.1\Exe07.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\bin\Debug\netcoreapp3.1\Exe07.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\Exercicios\Exe07\Exe07\obj\Debug\netcoreapp3.1\Exe07.genruntimeconfig.cache
