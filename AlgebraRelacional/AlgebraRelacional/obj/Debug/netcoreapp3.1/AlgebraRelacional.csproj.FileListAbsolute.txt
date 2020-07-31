@@ -1,0 +1,13 @@
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\bin\Debug\netcoreapp3.1\AlgebraRelacional.exe
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\bin\Debug\netcoreapp3.1\AlgebraRelacional.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\bin\Debug\netcoreapp3.1\AlgebraRelacional.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\bin\Debug\netcoreapp3.1\AlgebraRelacional.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\bin\Debug\netcoreapp3.1\AlgebraRelacional.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\bin\Debug\netcoreapp3.1\AlgebraRelacional.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.dll
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\GitHub\Projetos-CSharp\AlgebraRelacional\AlgebraRelacional\obj\Debug\netcoreapp3.1\AlgebraRelacional.genruntimeconfig.cache
